@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-PHGS6EML" failures="0" tests="1" name="testsuite.LoginTest" time="0.02" errors="0" timestamp="27 Apr 2021 11:26:20 GMT">
+  <testcase classname="testsuite.LoginTest" name="login" time="0.006">
+    <skipped/>
+  </testcase>
+</testsuite>

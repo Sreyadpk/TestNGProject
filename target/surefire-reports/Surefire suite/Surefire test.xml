@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-PHGS6EML" name="testsuite.LoginTest" tests="6" failures="0" timestamp="27 Apr 2021 10:28:28 GMT" time="0.045" errors="0">
+  <testcase name="login" time="0.006" classname="testsuite.LoginTest">
+    <skipped/>
+  </testcase>
+  <testcase name="othertest" time="0.001" classname="testsuite.Testcase1"/>
+  <testcase name="test1" time="0.0" classname="testsuite.Testcase1"/>
+  <testcase name="test2" time="0.002" classname="testsuite.Testcase1"/>
+  <testcase name="test3" time="0.001" classname="testsuite.Testcase2"/>
+  <testcase name="test4" time="0.001" classname="testsuite.Testcase2"/>
+</testsuite>

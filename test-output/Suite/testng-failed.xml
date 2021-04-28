@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <parameter name="password" value="abc123"/>
+  <parameter name="username" value="abc@xyz.com"/>
+  <test parallel="none" name="Test(failed)" preserve-order="false">
+    <parameter name="password" value="abc123"/>
+    <parameter name="username" value="abc@xyz.com"/>
+    <classes>
+      <class name="testsuite.LoginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="login" invocation-numbers="0"/>
+          <include name="teardown"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
